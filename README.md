@@ -1,4 +1,10 @@
-## Hi there 👋
+![Views to Memor-X's profile](https://komarev.com/ghpvc/?username=Memor-X&color=blue&style=for-the-badge&abbreviated=true)
+![Memor-X's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=memor-x&margin-w=15)
+
+![Memor-X's GitHub stats](https://github-readme-stats.vercel.app/api?username=Memor-X)
+![Memor-X's Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Memor-X&layout=compact)
+
+[![Memor-X's GitHub Streak](https://streak-stats.demolab.com?user=Memor-X&theme=transparent&fire=FF0000&ring=FFA300)](https://git.io/streak-stats)
 
 <!--
 **Memor-X/Memor-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
